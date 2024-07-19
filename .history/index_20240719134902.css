@@ -1,0 +1,41 @@
+.blog-card-article{
+    min-height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: yellow;
+    -ms-flex-align: ;
+
+}
+
+.blog-card{
+    background-color: white;
+    
+}
+
+.blog-img{
+
+
+}
+
+.blog-category{
+
+
+}
+
+.blog-date{
+
+}
+
+.blog-title{
+
+}
+.blog-discrip{
+
+}
+
+.blog-author{
+    display: flex;
+    align-items:center;
+
+}
