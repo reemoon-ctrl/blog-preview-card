@@ -12,16 +12,15 @@
     background-color: white;
     padding: 20px 20px 20px 20px;
     border-left-style: groove;
-    /* border-left-color: hsl(0, 0%, 17%); */
-    border-top:groove ;
+    border-left-color: hsl(0, 0%, 17%);
+    border-to ;
     border-radius: 20px;
-    flex-basis: 450px;
+    flex-basis: 350px;
     box-shadow:10px 10px;
 }
 
 .blog-img{
     border-radius: 20px;
-    width: 400px;
 
 
 }
